@@ -1,7 +1,7 @@
 # 📱 Mobile Sales in India Analysis — Data Warehousing, Mining & Power BI Analytics
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9A3412,50:EA580C,100:FDBA74&customColorList=9A3412,EA580C,FDBA74&height=220&section=header&text=India%20Mobile%20Sales%20Analysis&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Data%20Warehousing%2C%20Mining%20%26%20Interactive%20Power%20BI%20Analytics&descSize=15&descAlignY=60&descAlign=50" width="100%" alt="India Mobile Sales Analysis Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9A3412,50:EA580C,100:FDBA74&customColorList=9A3412,EA580C,FDBA74&height=220&section=header&text=India%20Mobile%20Sales%20Analysis&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Data%20Warehousing%2C%20Mining%20and%20Interactive%20Power%20BI%20Analytics&descSize=15&descAlignY=60&descAlign=50" width="100%" alt="India Mobile Sales Analysis Banner" />
 </p>
 
 <p align="center">
